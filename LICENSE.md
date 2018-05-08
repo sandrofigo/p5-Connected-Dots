@@ -1,2 +1,2 @@
 
-Copyright (C) 2018 
+Copyright (C) Sandro Figo 2018 
