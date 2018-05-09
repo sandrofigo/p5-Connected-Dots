@@ -3,5 +3,5 @@ Particles are spawned at a random positions inside the canvas with random veloci
 ## Preview
 
 <div align = "center">
-  <img src="https://github.com/FireFlame74/p5-Connected-Dots/blob/master/preview.gif" width="500"></img>
+  <img src="https://github.com/FireFlame74/p5-Connected-Dots/blob/master/preview.gif"></img>
 </div>
